@@ -1,0 +1,340 @@
+{
+    "name": "English",
+    "updatedAt": "2025-02-22",
+    "language": "en",
+    "translation": {
+        "layout": {
+            "home": "Home",
+            "cart": {
+                "actions": {
+                    "removeItem": "Remove"
+                },
+                "checkout": "Checkout",
+                "continueShopping": "Continue shopping",
+                "heading": "Your cart",
+                "empty": "Your cart is currently empty."
+            },
+            "footer": {
+                "title": "LET'S BE FRIENDS",
+                "newsletter": {
+                    "title": "Keep updated",
+                    "description": "Keep updated with the latest releases by subscribing to our newsletter.",
+                    "placeholder": "Enter your email",
+                    "button": "Subscribe",
+                    "privacy": "By subscribing, you accept our <link>Privacy Policy</link> and agree to receive updates from <b>ESSNCE</b>",
+                    "success": "THANK YOU FOR SUBSCRIBING!",
+                    "error": "An error occurred, please try again."
+                },
+                "about": {
+                    "title": "ABOUT US",
+                    "description": "ESSNCE manufactures perfumes of high quality at a low price. The perfumes are manufactured in France and are 100% vegan and cruelty-free.\n\nWe are extremely happy that you found us and we hope you find your new favorite perfume. If you have any questions, please <contact>click here</contact> or send a DM on Instagram <instagram>@essnce.edp</instagram>"
+                },
+                "menus": {
+                    "pages": "PAGES",
+                    "support": "SUPPORT",
+                    "about": "ABOUT US"
+                },
+                "rights": "All rights reserved.",
+                "copyright": "© {{year}} ESSNCE"
+            },
+            "search": {
+                "noResults": "No results found for \"{{query}}\"",
+                "results": {
+                    "productsAndCollections": "PRODUCTS AND COLLECTIONS",
+                    "articlesAndPages": "PAGES AND BLOG"
+                },
+                "viewAll": "VIEW ALL {{count}}",
+                "placeholder": "Search for product, collection or page..."
+            },
+            "pagination": {
+                "loading": "Loading...",
+                "previous": "Previous",
+                "loadMore": "Load more"
+            }
+        },
+        "quiz": {
+            "title": "Let us help you find a new favorite perfume!",
+            "description": "Fill in your perfume preferences so our perfume experts give you a personalized recommendation for an ESSNCE perfume that matches your wishes.",
+            "description2": "Test our perfume guide so we recommend perfumes we think will suit you!",
+            "showResults": "Show results",
+            "startButton": "Start guide",
+            "startButton2": "Go to our perfume guide",
+            "continue": "Continue",
+            "loading": "Loading...",
+            "personalAnswer": "Do you want a personal recommendation?",
+            "questions": {
+                "Q1": {
+                    "question": "Who is the fragrance for?",
+                    "choices": {
+                        "woman": "Woman",
+                        "man": "Man",
+                        "unisex": "Unisex"
+                    }
+                },
+                "Q2": {
+                    "question": "Do you have a favorite fragrance?",
+                    "choices": {
+                        "yes": "Yes",
+                        "no": "No"
+                    }
+                },
+                "Q3": {
+                    "question": "Choose your favorite fragrance",
+                    "placeholder": "Search for your favorite fragrance here...",
+                    "unableToFind": "I can't find my perfume"
+                },
+                "Q4": {
+                    "question": "Do you want a similar fragrance?",
+                    "choices": {
+                        "yes": "Yes",
+                        "no": "No"
+                    }
+                },
+                "Q5": {
+                    "question": "How often do you use perfume?",
+                    "choices": {
+                        "daily": "Every day",
+                        "sometimes": "Sometimes",
+                        "rarely": "Rarely"
+                    }
+                },
+                "Q6": {
+                    "question": "Intensity of the fragrance?",
+                    "choices": {
+                        "subtle": "Subtle - Not overwhelming",
+                        "medium": "Medium - Just right",
+                        "strong": "Strong - Showstopper"
+                    }
+                },
+                "Q7": {
+                    "question": "I want my new fragrance to be (Max 2 answers)",
+                    "choices": {
+                        "fresh": "Fresh",
+                        "oriental": "Oriental",
+                        "floral": "Floral",
+                        "woody": "Woody",
+                        "vanilla": "Vanilla",
+                        "fruity": "Fruity",
+                        "sweet": "Sweet",
+                        "gourmand": "Gourmand"
+                    }
+                },
+                "Q8": {
+                    "question": "We found {{result}} perfumes for you!"
+                }
+            },
+            "results": {
+                "title": "We found {{count}} perfumes that match your preferences!",
+                "noResults": "We couldn't find any perfumes that matched your choices. Sometimes the robot can be a bit off!",
+                "tryAgain": "Try again",
+                "or": "or",
+                "seeBestSellers": "See bestsellers"
+            },
+            "seo": {
+                "title": "Perfume guide - Find your signature perfume! | ESSNCE"
+            },
+            "form": {
+                "newsletter": "I want to receive ESSNCE newsletter!",
+                "name": {
+                    "placeholder": "Your name",
+                    "error": "You must fill in your name."
+                },
+                "email": {
+                    "placeholder": "Your email",
+                    "error": "You must fill in your email address."
+                },
+                "terms": "I accept ESSNCE <link>terms</link> and that my data is handled."
+            }
+        },
+        "product": {
+            "reviews": "Reviews",
+            "showLess": "Show less",
+            "showMore": "Show more",
+            "notes": {
+                "topNotes": "Top notes",
+                "heartNotes": "Heart notes",
+                "baseNotes": "Base notes",
+                "family": "Scent family"
+            },
+            "sections": {
+                "christmasCalendars": {
+                    "title": "Discover more Christmas calendars",
+                    "description": "Are you interested in a Christmas calendar but unsure if this is the right one? Here you will find more calendars that fit all tastes and sizes!",
+                    "cta": "See all calendars"
+                },
+                "family": {
+                    "title": "If you like {{productName}}",
+                    "description": "...it seems you like perfumes in the family {{family}}.\nThen we would like to recommend these perfumes that fall into the same family, also fruity, fresh and incredibly nice!",
+                    "cta": "See the whole scent family"
+                },
+                "moreOf": {
+                    "title": "More of {{productName}}",
+                    "description": "Whether you want to surround yourself with the scent at home or wear it in another way, we have options that fit all different occasions.",
+                    "cta": "See all products"
+                },
+                "tester": {
+                    "title": "Deciding?",
+                    "description": "We have testers on all of our perfumes that you can order as a ready-made kit or individually. Test the scent at home in peace before you commit to a 50 ml perfume.",
+                    "cta": "See all testers"
+                },
+                "travelSize": {
+                    "title": "Liiitle more....?",
+                    "description": "Is 2ml too little? Here we have collected all travel sizes for you who want a little extra dose of your favorite scent!",
+                    "cta": "See all travel sizes"
+                },
+                "addExtraTester": {
+                    "title": "Add an extra!",
+                    "description": "Was there a scent you wanted to test but was missing in this kit? Add an extra tester to have the opportunity to smell all the scents you are interested in!",
+                    "cta": "See all testers"
+                },
+                "seeAllKits": {
+                    "title": {
+                        "testkit": "See more test kits!",
+                        "testers": "Take advantage of testing more scents at once!"
+                    },
+                    "description": "Here we have collected all test kits for you who are interested in testing multiple scents at once!",
+                    "cta": "See all test kits"
+                },
+                "fillNecessaire": {
+                    "title": "Fill your necessaire!",
+                    "description": "Take advantage of filling your necessaire with goodies! Add an extra tester to have the opportunity to smell all the scents you are interested in!",
+                    "cta": "Fill your necessaire!"
+                },
+                "fullSize": {
+                    "title": "Would you rather have a full size?",
+                    "cta": "See all perfumes"
+                }
+            },
+            "card": {
+                "purchase": {
+                    "addToCart": "Add to cart",
+                    "soldOut": "Sold out",
+                    "watch": "Watch",
+                    "buy": "Buy here",
+                    "readMore": "Read more"
+                }
+            }
+        },
+        "aboutUs": {
+            "imageAlt": "Image of Jonna",
+            "heading": "About us",
+            "description": "I started ESSNCE because I was tired of spending several thousand dollars on perfumes! ESSNCE is a cruelty-free and vegan perfume brand that offers high-quality perfumes at an affordable price.",
+            "founder": "Jonna, founder",
+            "cta": "Read more here"
+        },
+        "notFound": {
+            "title": "The page you are looking for does not exist...",
+            "description": "But don't worry! We have a lot of other interesting things to show you!",
+            "cta": "Back to homepage"
+        },
+        "monitor": {
+            "title": "{{productName}}",
+            "description": "Fill in your email address below to get an email when we have this perfume back in stock!",
+            "button": "Watch",
+            "form": {
+                "placeholder": "Your email address",
+                "success": "You are now on the email list for {{productName}}!\n<close>Click here to close</close>",
+                "error": "An error occurred, please try again later."
+            }
+        },
+        "expandable_description": {
+            "read_less": "Read less",
+            "read_more": "Read more"
+        },
+        "language": {
+            "swedish": "Swedish",
+            "english": "English",
+            "norwegian": "Norwegian",
+            "finnish": "Finnish",
+            "danish": "Danish"
+        },
+        "scent_families": {
+            "heading": "Scent families",
+            "description": "Are you unsure about which scent you are interested in? Here you will find an overview of our scent families and the perfumes we recommend for each group!",
+            "read_more": "Read more"
+        },
+        "collections": {
+            "allProducts": "All products",
+            "allProductsDescription": "Here we have collected all of our products! Everything from perfumes to test kits and advent calendars can be found here. If you want to search for something specific, you can use the filter function below.",
+            "collections": "Collections",
+            "collectionsDescription": "Here we have collected all of our collections, from perfumes to test kits and advent calendars! Click on a collection to see all of its products.",
+            "filters": {
+                "clearAll": "Clear all",
+                "clear": "X",
+                "title": "Filter",
+                "close": "Close filter",
+                "seeProducts": "See products",
+                "sort": {
+                    "title": "Sort by",
+                    "priceLowHigh": "Price, Low to High",
+                    "priceHighLow": "Price, High to Low",
+                    "bestSelling": "Best selling",
+                    "alphabetical": "Alphabetical, A-Z",
+                    "alphabeticalReverse": "Alphabetical, Z-A",
+                    "featured": "Featured",
+                    "newest": "Newest"
+                }
+            },
+            "soldOut": "Sold out",
+            "upcoming": "Upcoming"
+        },
+        "blog": {
+            "allPosts": "All posts",
+            "nowReading": "NOW READING: {{title}}",
+            "readMore": "Read more",
+            "journal": "ESSNCE JOURNAL",
+            "seo": {
+                "title": "{{title}} | ESSNCE"
+            }
+        },
+        "account": {
+            "overview": "Overview",
+            "orders": "Orders",
+            "logout": "Log out",
+            "welcome": "Welcome, {{name}}",
+            "my_account": "My account",
+            "account_info": "Account information",
+            "name": "Name",
+            "email": "Email",
+            "phone": "Phone",
+            "no_orders": "No orders yet",
+            "no_orders_description": "You have not placed any orders yet.",
+            "start_shopping": "Start shopping",
+            "my_orders": "My orders",
+            "order_number": "Order #{{number}}",
+            "back_to_orders": "← Back to orders",
+            "order_total": "Order total",
+            "shipping_address": "Shipping address",
+            "status": "Status",
+            "products": "Products",
+            "quantity": "Quantity",
+            "order_status": {
+                "fulfilled": "Fulfilled",
+                "in_progress": "In progress",
+                "on_hold": "On hold",
+                "open": "Open",
+                "partially_fulfilled": "Partially fulfilled",
+                "pending_fulfillment": "Pending fulfillment",
+                "restocked": "Restocked",
+                "scheduled": "Scheduled",
+                "unfulfilled": "Unfulfilled",
+                "unknown": "Unknown status"
+            }
+        },
+        "geo_prompt": {
+            "visiting_from": "We notice you're visiting from {{country}}",
+            "visiting_from_global": "We notice you're visiting from {{country}}",
+            "shop_with": "Shop with {{currency}}",
+            "shop_with_global": "Shop with {{currency}}",
+            "shipping_options": "Get shipping options for your region",
+            "shipping_options_global": "Get shipping options for your region",
+            "continue": "Continue",
+            "continue_global": "Continue",
+            "change_country": "Change country/region",
+            "change_country_global": "Change country/region",
+            "select_country": "Select country/region",
+            "back": "Back",
+            "close": "Close"
+        }
+    }
+}

@@ -1,0 +1,340 @@
+{
+    "name": "Svenska",
+    "updatedAt": "2025-02-21",
+    "language": "sv",
+    "translation": {
+        "layout": {
+            "home": "Hem",
+            "cart": {
+                "actions": {
+                    "removeItem": "Ta bort"
+                },
+                "checkout": "Gå till kassan",
+                "continueShopping": "Klicka här för att fortsätta handla",
+                "heading": "Din kundvagn",
+                "empty": "Din varukorg är för närvarande tom."
+            },
+            "footer": {
+                "title": "LET'S BE FRIENDS",
+                "newsletter": {
+                    "title": "Håll dig uppdaterad",
+                    "description": "Håll dig uppdaterad med nyaste släpp genom att gå med i vårat nyhetsbrev.",
+                    "placeholder": "Fyll i din e-post",
+                    "button": "Prenumerera",
+                    "privacy": "Genom att prenumerera, accepterar du våran <link>Privacy Policy</link> och godkänner att få uppdateringar från <b>ESSNCE</b>",
+                    "success": "TACK FÖR ATT DU PRENUMERAT!",
+                    "error": "Ett fel uppstod, vänligen försök igen."
+                },
+                "about": {
+                    "title": "OM OSS",
+                    "description": "ESSNCE tillverkar dofter med hög kvalitet till ett lågt pris. Dofterna är tillverkade i Frankrike och är 100% veganska och cruelty-free.\n\nVi är otroligt glada att du hittat till oss och vi hoppas att du finner din nya favoritparfym. Ifall du har några frågor så är det bara att <contact>trycka här</contact> eller skicka iväg ett DM på Instagram <instagram>@essnce.edp</instagram>"
+                },
+                "menus": {
+                    "pages": "SIDOR",
+                    "support": "SUPPORT",
+                    "about": "OM OSS"
+                },
+                "rights": "Alla rättigheter förbehållna.",
+                "copyright": "© {{year}} ESSNCE"
+            },
+            "search": {
+                "noResults": "Inga resultat hittade för \"{{query}}\"",
+                "results": {
+                    "productsAndCollections": "PRODUKTER OCH KOLLEKTIONER",
+                    "articlesAndPages": "SIDOR OCH BLOGGAR"
+                },
+                "viewAll": "VISA ALLA {{count}}",
+                "placeholder": "Sök efter produkt, kollektion eller sida..."
+            },
+            "pagination": {
+                "loading": "Laddar...",
+                "previous": "Ladda föregående",
+                "loadMore": "Ladda fler"
+            }
+        },
+        "quiz": {
+            "title": "Låt oss hjälpa dig att hitta en ny favoritdoft!",
+            "description": "Fyll i dina doftpreferenser så ger våra parfymexperter dig en personlig rekommendation på en ESSNCE-parfym som matchar dina önskemål.",
+            "description2": "Testa vår parfymguide så rekommenderar vi dofter vi tror skulle passa dig!",
+            "showResults": "Visa Resultat",
+            "startButton2": "Till vår parfymguide",
+            "startButton": "Starta guide",
+            "continue": "Fortsätt",
+            "loading": "Laddar...",
+            "personalAnswer": "Få ett personligt svar?",
+            "seo": {
+                "title": "Parfymguide - Hitta din signaturdoft! | ESSNCE"
+            },
+            "questions": {
+                "Q1": {
+                    "question": "Vem är doften till?",
+                    "choices": {
+                        "woman": "Dam",
+                        "man": "Herr",
+                        "unisex": "Unisex"
+                    }
+                },
+                "Q2": {
+                    "question": "Har du en favoritdoft?",
+                    "choices": {
+                        "yes": "Ja",
+                        "no": "Nej"
+                    }
+                },
+                "Q3": {
+                    "question": "Välj din favorit parfym",
+                    "placeholder": "Sök efter din favoritparfym här...",
+                    "unableToFind": "Jag hittar inte min parfym"
+                },
+                "Q4": {
+                    "question": "Vill du ha en liknande doft?",
+                    "choices": {
+                        "yes": "Ja",
+                        "no": "Nej"
+                    }
+                },
+                "Q5": {
+                    "question": "Hur ofta använder du parfym?",
+                    "choices": {
+                        "daily": "Varje dag",
+                        "sometimes": "Ibland",
+                        "rarely": "Sällan"
+                    }
+                },
+                "Q6": {
+                    "question": "Intensitet på doften?",
+                    "choices": {
+                        "subtle": "Subtil - Inte överväldigande",
+                        "medium": "Medel - Lagom är bäst",
+                        "strong": "Kraftfull - Showstopper"
+                    }
+                },
+                "Q7": {
+                    "question": "Jag vill att min nya doft ska vara (Max 2 svar)",
+                    "choices": {
+                        "fresh": "Fräsch",
+                        "oriental": "Orientalisk",
+                        "floral": "Blommig",
+                        "woody": "Träig",
+                        "vanilla": "Vanilj",
+                        "fruity": "Fruktig",
+                        "sweet": "Söt",
+                        "gourmand": "Gourmand"
+                    }
+                },
+                "Q8": {
+                    "question": "Vi har hittat {{result}} parfymer till dig!"
+                }
+            },
+            "results": {
+                "title": "Vi har hittat {{count}} parfymer som passar dig!",
+                "noResults": "Vi hittade inga parfymer som matchade dina val. Ibland kan robotten tappa bort sig lite!",
+                "tryAgain": "Försök igen",
+                "or": "eller",
+                "seeBestSellers": "Se våra bästsäljare"
+            },
+            "form": {
+                "newsletter": "Jag vill ha ESSNCE nyhetsbrev!",
+                "name": {
+                    "placeholder": "Ditt namn",
+                    "error": "Du måste fylla i ditt namn."
+                },
+                "email": {
+                    "placeholder": "E-post",
+                    "error": "Du måste fylla i din e-postadress."
+                },
+                "terms": "Jag godkänner ESSNCE <link>villkor</link> och att mina uppgifter hanteras."
+            }
+        },
+        "product": {
+            "reviews": "Recensioner",
+            "showLess": "Visa mindre",
+            "showMore": "Visa mer",
+            "notes": {
+                "topNotes": "Toppnoter",
+                "heartNotes": "Hjärtnoter",
+                "baseNotes": "Basnoter",
+                "family": "Doftfamilj"
+            },
+            "sections": {
+                "christmasCalendars": {
+                    "title": "Upptäck fler Julkalendrar",
+                    "description": "Är du sugen på en julkalender men osäker om denna är den rätta? Här hittar du fler kalendrar som passar alla smaker och storlekar!",
+                    "cta": "Se alla kalendrar"
+                },
+                "family": {
+                    "title": "Om du gillar {{productName}}",
+                    "description": "...så verkar det som du gillar dofter i familjen {{family}}.\nDå skulle vi vilja tipsa om dessa dofter som faller inom samma familj, också fruktiga, fräscha och otroligt härliga!",
+                    "cta": "Se hela doftfamiljen"
+                },
+                "moreOf": {
+                    "title": "Mer av {{productName}}",
+                    "description": "Oavsett om du vill omge dig med doften hemma eller bära den på ett annat sätt, har vi alternativ som passar alla olika tillfällen.",
+                    "cta": "Se alla produkter"
+                },
+                "tester": {
+                    "title": "Beslutsångest?",
+                    "description": "Vi har testers på alla våra parfymer som finns att beställa färdiga kit eller enskilt. Dofta hemma i lugn och ro innan du commitar till en 50 ml parfym.",
+                    "cta": "Se alla testers"
+                },
+                "travelSize": {
+                    "title": "Liiite mer....?",
+                    "description": "Är 2ml för lite? Här har vi samlat alla travel size för dig som vill ha en liten extra dos av din favoritdoft!",
+                    "cta": "Till alla travel size"
+                },
+                "addExtraTester": {
+                    "title": "Lägg till en extra!",
+                    "description": "Var det en doft som du vill testa men som saknades i detta kit? Lägg till en extra tester för att få möjligheten att dofta på alla dofter du är intresserad av!",
+                    "cta": "TILL ALLA TESTERS"
+                },
+                "seeAllKits": {
+                    "title": {
+                        "testkit": "Spana in flertestkit!",
+                        "testers": "Passa på att testa fler!"
+                    },
+                    "description": "Här har vi samlat alla testkit för dig som är sugen på att testa flera dofter samtidigt!",
+                    "cta": "Se alla testkit"
+                },
+                "fillNecessaire": {
+                    "title": "Fyll din necessär!",
+                    "description": "Passa på att fylla din necessär med läckerheter! Lägg till en extra tester för att få möjligheten att dofta på alla dofter du är intresserad av!",
+                    "cta": "Fyll din necessär!"
+                },
+                "fullSize": {
+                    "title": "Vill du hellre ha en full size?",
+                    "cta": "Till alla parfymer"
+                }
+            },
+            "card": {
+                "purchase": {
+                    "addToCart": "Lägg i varukorg",
+                    "soldOut": "Slutsåld",
+                    "watch": "Bevaka",
+                    "buy": "Köp här",
+                    "readMore": "Läs mer"
+                }
+            }
+        },
+        "aboutUs": {
+            "imageAlt": "Bild på Jonna",
+            "heading": "Om oss",
+            "description": "Jag startade ESSNCE för jag var trött på att lägga flera tusenlappar på att lukta gott! ESSNCE för jag var trött på att lägga flera tusenlappar på att lukta gott!",
+            "founder": "Jonna, grundare",
+            "cta": "Läs mer här"
+        },
+        "notFound": {
+            "title": "Sidan du letar efter finns inte...",
+            "description": "Men oroa dig inte! Vi har mycket annat roligt att visa dig!",
+            "cta": "Tillbaka till startsidan"
+        },
+        "monitor": {
+            "title": "{{productName}}",
+            "description": "Fyll i din e-post address nedan för att få ett mejl skickat till dig när vi har denna parfym tillbaka på lagret!",
+            "button": "Bevaka",
+            "form": {
+                "placeholder": "Din e-post address",
+                "success": "Du ligger nu på mejl listan för {{productName}}!\n<close>Tryck här för att stänga</close>",
+                "error": "Ett fel uppstod, vänligen försök igen senare."
+            }
+        },
+        "expandable_description": {
+            "read_less": "Läs mindre",
+            "read_more": "Läs mer"
+        },
+        "language": {
+            "swedish": "Svenska",
+            "english": "Engelska",
+            "norwegian": "Norska",
+            "finnish": "Finska",
+            "danish": "Danska"
+        },
+        "scent_families": {
+            "heading": "Doftgrupper",
+            "description": "Är du osäker på vilken doft du är sugen på? Här hittar du en översikt över våra doftgrupper och vilka parfymer vi rekommenderar för varje grupp!",
+            "read_more": "Läs mer"
+        },
+        "collections": {
+            "allProducts": "Alla produkter",
+            "allProductsDescription": "Här har vi samlat alla våra produkter! Allting från parfymer till testkit och julkalendrar kan du hitta här. Ifall du vill leta efter något speciellt, så kan du använda filterfunktionen här nedanför.",
+            "collections": "Kollektioner",
+            "collectionsDescription": "Här har vi samlat alla våra kollektioner, från parfymer till testkit och julkalendrar! Klicka på en kollektion för att se alla dess produkter.",
+            "filters": {
+                "clearAll": "Rensa alla",
+                "clear": "X",
+                "title": "Filter",
+                "close": "Stäng filter",
+                "seeProducts": "Se produkter",
+                "sort": {
+                    "title": "Sortera efter",
+                    "priceLowHigh": "Pris, Lågt till högt",
+                    "priceHighLow": "Pris, Högt till lågt",
+                    "bestSelling": "Bästsäljare",
+                    "alphabetical": "Alfabetiskt, A-Ö",
+                    "alphabeticalReverse": "Alfabetiskt, Ö-A",
+                    "featured": "Favoriter",
+                    "newest": "Nyaste"
+                }
+            },
+            "soldOut": "Slutsåld",
+            "upcoming": "Kommande"
+        },
+        "blog": {
+            "allPosts": "Alla inlägg",
+            "nowReading": "LÄSER NU: {{title}}",
+            "readMore": "Läs mer",
+            "journal": "ESSNCE JOURNAL",
+            "seo": {
+                "title": "{{title}} | ESSNCE"
+            }
+        },
+        "account": {
+            "overview": "Översikt",
+            "orders": "Ordrar",
+            "logout": "Logga ut",
+            "welcome": "Välkommen, {{name}}",
+            "my_account": "Mitt konto",
+            "account_info": "Kontoinformation",
+            "name": "Namn",
+            "email": "Email",
+            "phone": "Telefon",
+            "no_orders": "Inga ordrar än",
+            "no_orders_description": "Du har inte lagt några ordrar än.",
+            "start_shopping": "Börja shoppa",
+            "my_orders": "Mina ordrar",
+            "order_number": "Order #{{number}}",
+            "back_to_orders": "← Tillbaka till ordrar",
+            "order_total": "Ordersumma",
+            "shipping_address": "Leveransadress",
+            "status": "Status",
+            "products": "Produkter",
+            "quantity": "Antal",
+            "order_status": {
+                "fulfilled": "Skickad",
+                "in_progress": "Behandlas",
+                "on_hold": "Pausad",
+                "open": "Öppen",
+                "partially_fulfilled": "Delvis skickad",
+                "pending_fulfillment": "Väntar på leverans",
+                "restocked": "Återställd",
+                "scheduled": "Planerad",
+                "unfulfilled": "Ej skickad",
+                "unknown": "Okänd status"
+            }
+        },
+        "geo_prompt": {
+            "visiting_from": "Vi ser att du befinner dig i {{country}}",
+            "visiting_from_global": "Vi ser att du befinner dig i {{country}}",
+            "shop_with": "Shoppa med {{currency}}",
+            "shop_with_global": "Shoppa med {{currency}}",
+            "shipping_options": "Få leveransalternativ för {{country}}",
+            "shipping_options_global": "Få leveransalternativ för {{country}}",
+            "continue": "Fortsätt",
+            "continue_global": "Fortsätt",
+            "change_country": "Ändra land/region",
+            "change_country_global": "Ändra land/region",
+            "select_country": "Välj land/region",
+            "back": "Tillbaka",
+            "close": "Stäng"
+        }
+    }
+}

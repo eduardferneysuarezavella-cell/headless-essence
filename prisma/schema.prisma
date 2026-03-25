@@ -1,0 +1,46 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model quiz_answers {
+  answerId   Int    @id @default(autoincrement())
+  sessionId  Int
+  questionId Int    @db.TinyInt
+  value      String @db.VarChar(255)
+}
+
+model quiz_sessions {
+  sessionId         Int                  @id @default(autoincrement())
+  userId            Int
+  currentQuestion   Int                  @db.TinyInt
+  enteredAt         Int                  @default(dbgenerated("(current_timestamp())"))
+  completedAt       DateTime?            @db.DateTime(0)
+  status            quiz_sessions_status
+  lastInteractionAt DateTime?            @db.DateTime(0)
+}
+
+model recommendations {
+  recommendationId Int    @id @default(autoincrement())
+  sessionId        Int
+  perfume          String @db.VarChar(255)
+}
+
+model users {
+  userId             Int       @id @default(autoincrement())
+  email              String?   @db.VarChar(255)
+  createdAt          DateTime  @default(now()) @db.DateTime(0)
+  quizFinishedAt     DateTime? @db.DateTime(0)
+  personalizedSentAt DateTime? @db.DateTime(0)
+}
+
+enum quiz_sessions_status {
+  IN_PROGRESS
+  COMPLETED
+  ABANDONED
+  EMPTY_ENUM_VALUE @map("")
+}
